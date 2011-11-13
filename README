@@ -1,3 +1,9 @@
+* Adds tagbar support from http://latestbuild.net/scala-ctags-and-vim-tagbar
+* SBT syntax highlighting
+* Eclim Support
+
+------------------------------
+
 Note that this was taken entirely from ewiplayer, and recreated after the repo
 disappeared. I deserve no credit for this.
 

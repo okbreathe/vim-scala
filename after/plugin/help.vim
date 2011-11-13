@@ -1,4 +1,3 @@
-
 function! FixTOCLine(beginning, colonCol)
     let l = strlen(a:beginning)
     let c = 0
