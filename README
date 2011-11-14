@@ -1,6 +1,12 @@
+Fork of https://github.com/bmatheny/vim-scala based on original work by ewiplayer
+
 * Adds tagbar support from http://latestbuild.net/scala-ctags-and-vim-tagbar
 * SBT syntax highlighting
 * Eclim Support
+
+# Notes
+
+* For TagBar support you'll need to symlink <plugin_dir>/ctags to ~/.ctags
 
 ------------------------------
 
